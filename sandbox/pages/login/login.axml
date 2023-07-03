@@ -1,0 +1,5 @@
+<view class="container">
+  <input type="text" class="input" placeholder="Username" onInput="handleUsernameInput" />
+  <input type="password" class="input" placeholder="Password" onInput="handlePasswordInput" />
+  <button class="button" onTap="handleLogin">Login</button>
+</view>
